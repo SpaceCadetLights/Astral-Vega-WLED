@@ -7,7 +7,10 @@
   <a href="https://github.com/Aircoookie/WLED-App"><img src="https://img.shields.io/badge/app-wled-blue.svg?style=flat-square"></a>
   </p>
 
-# 👋 Welcome to my project WLED!
+# 👋 Welcome to my modification of the amazing WLED!
+
+I have modified WLED to adapt it to function with the array of Space Cadets Lighting's LED home lights. Thanks again to wled for their excelent support!
+
 
 NOTE: This is a fork of WLED that provides sound reactivity. We have a [Sound Reactive WLED Wiki](https://github.com/atuline/WLED/wiki).
 
